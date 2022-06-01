@@ -1,0 +1,21 @@
+{
+	"User successfully logged out": "User successfully logged out",
+	"Not found": "Not found",
+	"Something went wrong, Please try again.": "Something went wrong, Please try again.",
+	"Validation Failed, Kindly check your parameters": "Validation Failed, Kindly check your parameters",
+	"en": "en",
+	"Invalid auth token provided, kindly check it and try again": "Invalid auth token provided, kindly check it and try again",
+	"Please authenticate": "Please authenticate",
+	"Success": "Success",
+	"This email already exist": {
+		" Please try with other email": "This email already exist. Please try with other email"
+	},
+	"Password is Incorrect": "Password is Incorrect",
+	"Your account has been deleted by Admin": "Your account has been deleted by Admin",
+	"Skill already exist with this name.": "Skill already exist with this name.",
+	"Email not found": "Email not found",
+	"User not found": "User not found",
+	"You are not authorized to perform this action": "You are not authorized to perform this action",
+	"Account does not exist": "Account does not exist",
+	"Your account has been blocked by Admin": "Your account has been blocked by Admin"
+}
